@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentProject</string>
+    <string name="welcome_to_quiz_app">Welcome To Quiz App</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="high_score_is">High Score is : </string>
+
+    <string name="question_number">%1$d / %2$d</string>
+    <string name="current_score">Current Score: %1$d</string>
+    <string name="final_score">Final Score: %1$d</string>
+
+</resources>
